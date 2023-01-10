@@ -1,0 +1,1 @@
+import { GetName } from "./artifact";

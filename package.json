@@ -1,0 +1,8 @@
+{
+  "name": "teste-artifact",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/artifact.ts",
+  "types": "dist/artifact.d.ts",
+  "dependencies": {}
+}
